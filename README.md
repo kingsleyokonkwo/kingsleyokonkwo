@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingsleyokonkwo
 - 👀 I’m a front end developer intrested in creating a nice interface in order to improve the experience of the user.
-- 🌱 I’m currently learning React and it has been a smooth ride because of my good grasp in JS.
-- 💞️ I’m looking to collaborate with other developers out there to create something the will keep the world moving.
+- 🌱 With my head, I dream about magic, with my fingers, I create magic.
+- 💞️ I’m looking to collaborate with other developers to create something the will keep the world moving.
 - 📫 contact me via kingsleyokonkwo16@gmail.com
 
 <!---
